@@ -4,20 +4,20 @@ NucleiPocGather，每日更新
 这个项目是一个 Python 脚本，用于批量克隆 GitHub 项目，获取 Nuclei POC，并将 POC 按类别分类存放到文件夹中。同时，使用 GitHub Action 每日自动运行脚本。
 # POC 详情统计
 
-> **当前项目 POC 更新时间：**`2026-07-07 15:28`
+> **当前项目 POC 更新时间：**`2026-07-08 15:10`
 
 | ID | 标签      | 数量 | 目录       | 数量 | 严重性   | 数量 |
 |:---| :-------- | :--- | :--------- | :--- | :------- | :--- |
-| 1 | cve | 108028 | cve | 58765 | medium | 44293 |
-| 2 | wordpress | 101374 | other | 56868 | low | 38230 |
-| 3 | wp-plugin | 93407 | sql | 11207 | high | 28368 |
-| 4 | low | 35994 | wordpress | 7826 | info | 27507 |
-| 5 | medium | 35356 | auth | 4565 | critical | 16589 |
-| 6 | candidate | 34441 | remote_code_execution | 1936 | unknown | 137 |
-| 7 | tech | 18241 | detect | 1882 | informative | 19 |
-| 8 | detect | 17461 | web | 1476 | meduim | 19 |
-| 9 | high | 17176 | microsoft | 1432 | hight | 15 |
-| 10 | production | 15799 | api | 1127 | cretical | 4 |
+| 1 | cve | 108139 | cve | 58779 | medium | 44313 |
+| 2 | wordpress | 101476 | other | 56941 | low | 38275 |
+| 3 | wp-plugin | 93492 | sql | 11217 | high | 28420 |
+| 4 | low | 36035 | wordpress | 7840 | info | 27520 |
+| 5 | medium | 35371 | auth | 4571 | critical | 16603 |
+| 6 | candidate | 34539 | remote_code_execution | 1936 | unknown | 138 |
+| 7 | tech | 18246 | detect | 1883 | informative | 19 |
+| 8 | detect | 17463 | web | 1478 | meduim | 19 |
+| 9 | high | 17216 | microsoft | 1436 | hight | 15 |
+| 10 | production | 15803 | api | 1127 | cretical | 4 |
 
 **81 个目录，44572 个文件**
 ## 如何使用
