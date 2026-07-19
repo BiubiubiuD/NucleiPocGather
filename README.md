@@ -4,11 +4,11 @@ NucleiPocGather，每日更新
 这个项目是一个 Python 脚本，用于批量克隆 GitHub 项目，获取 Nuclei POC，并将 POC 按类别分类存放到文件夹中。同时，使用 GitHub Action 每日自动运行脚本。
 # POC 详情统计
 
-> **当前项目 POC 更新时间：**`2026-07-18 14:12`
+> **当前项目 POC 更新时间：**`2026-07-19 14:15`
 
 | ID | 标签      | 数量 | 目录       | 数量 | 严重性   | 数量 |
 |:---| :-------- | :--- | :--------- | :--- | :------- | :--- |
-| 1 | cve | 88102 | other | 55517 | medium | 36832 |
+| 1 | cve | 88102 | other | 55518 | medium | 36832 |
 | 2 | wordpress | 81567 | cve | 42353 | low | 30073 |
 | 3 | wp-plugin | 74080 | sql | 6566 | info | 27989 |
 | 4 | candidate | 34572 | wordpress | 5061 | high | 25541 |
@@ -16,7 +16,7 @@ NucleiPocGather，每日更新
 | 6 | low | 27844 | auth | 3662 | unknown | 138 |
 | 7 | tech | 18923 | detect | 2255 | meduim | 18 |
 | 8 | detect | 18047 | microsoft | 1385 | informative | 17 |
-| 9 | high | 14508 | api | 1368 | hight | 15 |
+| 9 | high | 14508 | api | 1367 | hight | 15 |
 | 10 | service | 13839 | sql_injection | 1351 | cretical | 4 |
 
 **81 个目录，44572 个文件**
