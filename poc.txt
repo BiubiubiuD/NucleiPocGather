@@ -14969,7 +14969,6 @@
 ./poc/backup/vm_backups-450d4c30-b799-44c9-b60e-a1d701e9055e.yaml
 ./poc/backup/vm_backups-67c86b04-fdbd-4782-a362-fdec5e1f7c92.yaml
 ./poc/backup/wcbackup.yaml
-./poc/backup/website-backup-files.yaml
 ./poc/backup/website-backup-files_1.yaml
 ./poc/backup/wordpress-backup-files.yaml
 ./poc/backup/wordpress-backup-files_1.yaml
@@ -142626,6 +142625,7 @@
 ./poc/cve/CVE-2026-4090-inquiry_cart-772e9b2b-b2d5-4950-804b-d0914004710c.yaml
 ./poc/cve/CVE-2026-4091-open_brain-93df6480-9bb1-4f5d-bb39-ff1a01d739cf.yaml
 ./poc/cve/CVE-2026-4100-paid_memberships_pro-5b333a3d-e416-42aa-9722-5406df0a64b3.yaml
+./poc/cve/CVE-2026-41042.yaml
 ./poc/cve/CVE-2026-4106-ht_mega_for_elementor-e533f20e-825b-443c-93b2-cf451284ae96.yaml
 ./poc/cve/CVE-2026-4106.yaml
 ./poc/cve/CVE-2026-4106_1.yaml
@@ -153922,6 +153922,7 @@
 ./poc/ftp/myftp-ftp-like-plugin-for-wordpress-plugin-d41d8cd98f00b204e9800998ecf8427e_1.yaml
 ./poc/ftp/myftp-ftp-like-plugin-for-wordpress.yaml
 ./poc/ftp/myftp_ftp_like_plugin_for_wordpress-05a81b0e-2d25-44b5-b791-5b2aed94bbab.yaml
+./poc/ftp/mywebftp.yaml
 ./poc/ftp/ncftpd-detect.yaml
 ./poc/ftp/ncftpd-detect_1.yaml
 ./poc/ftp/net2ftp_1.yaml
@@ -154112,9 +154113,6 @@
 ./poc/ftp/wanhu-oa-download-ftp-fileread.yaml
 ./poc/ftp/wanhuOA-download-ftp.yaml
 ./poc/ftp/wd-nas-ftp-download-rce.yaml
-./poc/ftp/web-ftp-detect-11135.yaml
-./poc/ftp/web-ftp-detect-11136.yaml
-./poc/ftp/web-ftp-detect-11138.yaml
 ./poc/ftp/web-ftp-detect.yaml
 ./poc/ftp/wftpserver.yaml
 ./poc/ftp/windriver-ftp-detect.yaml
@@ -166650,7 +166648,7 @@
 ./poc/other/191218699_1.yaml
 ./poc/other/1912527454_1.yaml
 ./poc/other/1912527454_2.yaml
-./poc/other/1913107877_2.yaml
+./poc/other/1913107877_1.yaml
 ./poc/other/1913604982.yaml
 ./poc/other/1913930949.yaml
 ./poc/other/1914402596.yaml
@@ -212390,6 +212388,7 @@
 ./poc/other/kopatheme-aa16ab9f-4fb1-43de-bfbb-bd6caf6a68dc.yaml
 ./poc/other/kopatheme-aecf92ba128e924b74430328c78b4a69.yaml
 ./poc/other/kopatheme.yaml
+./poc/other/kopia.yaml
 ./poc/other/korea-sns-d2347b23afcb3c3e5e83785525a060c3.yaml
 ./poc/other/korea-sns.yaml
 ./poc/other/korea_sns-185d380e-7e23-4260-bdeb-e88c8625f690.yaml
@@ -246211,6 +246210,7 @@
 ./poc/perl/superlogoshowcase-wp.yaml
 ./poc/php/ApPHP-MicroBlog-rc-1.yaml
 ./poc/php/ApPHP-MicroBlog-rc.yaml
+./poc/php/Detect-PHP-5.4.20.yaml
 ./poc/php/Kyan_网络监控设备_run.php_远程命令执行漏洞.yaml
 ./poc/php/LanhaiZuoyue_system_download.php_File_read.yaml
 ./poc/php/Mallbuilder-pluginphp-FileRead.yaml
@@ -246355,7 +246355,6 @@
 ./poc/php/php-debug-bar-9506.yaml
 ./poc/php/php-debug-bar-9507.yaml
 ./poc/php/php-debug-bar.yaml
-./poc/php/php-detect-5-4-20.yaml
 ./poc/php/php-detect-5_4_20.yaml
 ./poc/php/php-detect.yaml
 ./poc/php/php-eol.yaml
@@ -277536,7 +277535,7 @@
 ./poc/web/CVE-2023-32625-ts_webfonts_for_sakura-48be0157-5eb9-4e06-b406-0af659de034b.yaml
 ./poc/web/CVE-2023-33999-adblock_notify_by_bweb-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
 ./poc/web/CVE-2023-33999-eroom_zoom_meetings_webinar-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
-./poc/web/CVE-2023-33999-web3_coin_gate-5253fe2b-040b-417c-b257-0cb59ee5aa6e_1.yaml
+./poc/web/CVE-2023-33999-web3_coin_gate-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
 ./poc/web/CVE-2023-33999-web3_token_gate-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
 ./poc/web/CVE-2023-33999-web_disrupt_funnelmentals-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
 ./poc/web/CVE-2023-33999-webba_booking_lite-5253fe2b-040b-417c-b257-0cb59ee5aa6e.yaml
@@ -277848,7 +277847,7 @@
 ./poc/web/Weblogic_SSRF漏洞_CVE-2014-4210.yaml
 ./poc/web/Webtalk-leakage.yaml
 ./poc/web/Wordpress-NMedia_Website_Contact_Form-FileInclude.yaml
-./poc/web/a2b-webserver_1.yaml
+./poc/web/a2b-webserver.yaml
 ./poc/web/a2b-webserver_3.yaml
 ./poc/web/abyss-web-server-11.yaml
 ./poc/web/abyss-web-server-12.yaml
@@ -277858,7 +277857,7 @@
 ./poc/web/acceso-web-portal.yaml
 ./poc/web/achecker-web-accessibility-evaluation-tool.yaml
 ./poc/web/achecker-web-accessibility-evaluation-tool_3.yaml
-./poc/web/activeweb-content-server_1.yaml
+./poc/web/activeweb-content-server.yaml
 ./poc/web/activeweb-content-server_3.yaml
 ./poc/web/acutoweb.yaml
 ./poc/web/adblock-notify-by-bweb-09712df89f849ba85b08f5f0deb0865b.yaml
@@ -277875,7 +277874,7 @@
 ./poc/web/ahwebexperts-product-sqli.yaml
 ./poc/web/ai-assistant-by-10web-fbe2b789ff7d3a0b8c6111e279109258.yaml
 ./poc/web/ai-assistant-by-10web_1.yaml
-./poc/web/ai_assistant_by_10web-229245a5-468d-47b9-8f26-d23d593e91da_1.yaml
+./poc/web/ai_assistant_by_10web-229245a5-468d-47b9-8f26-d23d593e91da.yaml
 ./poc/web/aix-websm-detect_1.yaml
 ./poc/web/akiva-webboard.yaml
 ./poc/web/all-in-one-webmaster-df31ce7743df91d7c5601fef69d58b9e.yaml
@@ -278096,7 +278095,7 @@
 ./poc/web/codemeter-webadmin_4.yaml
 ./poc/web/codesys-webvisu-panel.yaml
 ./poc/web/codesys-webvisu.yaml
-./poc/web/coil_web_monetization-4aa4cb93-7af3-4427-a17f-160b27fcebb8_1.yaml
+./poc/web/coil_web_monetization-4aa4cb93-7af3-4427-a17f-160b27fcebb8.yaml
 ./poc/web/completeview-web-panel.yaml
 ./poc/web/completeview-web-panel_2.yaml
 ./poc/web/completeview-web-panel_3.yaml
@@ -278242,7 +278241,7 @@
 ./poc/web/eroom_zoom_meetings_webinar-2ac3ffcf-50e0-42fc-a88d-cd7a51fbe1a9.yaml
 ./poc/web/eroom_zoom_meetings_webinar-317b1bac-cd9c-4eac-b42b-d7719ecd135c.yaml
 ./poc/web/eroom_zoom_meetings_webinar-5e0767a8-9e82-4ce4-9df9-19b458dc5ce0.yaml
-./poc/web/eroom_zoom_meetings_webinar-60e0fd59-a69c-4ddf-80cd-4312d2689397_1.yaml
+./poc/web/eroom_zoom_meetings_webinar-60e0fd59-a69c-4ddf-80cd-4312d2689397.yaml
 ./poc/web/eroom_zoom_meetings_webinar-67b7c2b5-c8ef-4659-b9e8-4c695bb76bff.yaml
 ./poc/web/eroom_zoom_meetings_webinar-89a23d5a-7728-403e-b654-595d92c20b66.yaml
 ./poc/web/eroom_zoom_meetings_webinar-ce695f15-557c-47b1-a5c4-ce68cc84d721.yaml
@@ -278610,7 +278609,7 @@
 ./poc/web/mantenimiento-web-f5dbc7ade7af8384d20ace0eef1c6024.yaml
 ./poc/web/mantenimiento_web-aefb7e34-ec48-4e29-b3aa-85901e12d21c.yaml
 ./poc/web/mantenimiento_web-c950ac0a-80fb-4f95-ba20-afb8ba6b137f.yaml
-./poc/web/mbedthis-appweb_1.yaml
+./poc/web/mbedthis-appweb.yaml
 ./poc/web/mdr_webmaster_tools-77ab3a4b-da39-454e-b223-56a36a7c9447.yaml
 ./poc/web/metaswitch-networks-metaview-web.yaml
 ./poc/web/mfiles-web-detect.yaml
@@ -278630,7 +278629,7 @@
 ./poc/web/microweber-xss-8865.yaml
 ./poc/web/microweber-xss.yaml
 ./poc/web/microweber.yaml
-./poc/web/mingyuanyun-erp-visitorweb-xmlhttp-aspx-sqli.yaml
+./poc/web/mingyuanyun-erp-visitorweb-xmlhttp-aspx-sqli_1.yaml
 ./poc/web/mingyuanyun-erp-visitorweb-xmlhttp-sqli.yaml
 ./poc/web/mingyuanyun-erp-vistorweb-xmlhttp-sqli.yaml
 ./poc/web/mochiweb-detect.yaml
@@ -278650,7 +278649,6 @@
 ./poc/web/mywebcounter-plugin_1.yaml
 ./poc/web/mywebcounter.yaml
 ./poc/web/mywebcounter_1.yaml
-./poc/web/mywebftp.yaml
 ./poc/web/mywebsql.yaml
 ./poc/web/mywebtonet_performancestats-aee08b01-ca5d-464d-94ed-66a05261670d.yaml
 ./poc/web/netsurveillance-web-9057.yaml
@@ -279148,7 +279146,10 @@
 ./poc/web/web-file-manager.yaml
 ./poc/web/web-framework-detect.yaml
 ./poc/web/web-framework-detect_2.yaml
+./poc/web/web-ftp-detect-11135.yaml
+./poc/web/web-ftp-detect-11136.yaml
 ./poc/web/web-ftp-detect-11137.yaml
+./poc/web/web-ftp-detect-11138.yaml
 ./poc/web/web-inf-disclosure.yaml
 ./poc/web/web-inf-web-xml-disclosure.yaml
 ./poc/web/web-instant-messenger-4ae688b6df13f1343923a0c3f1daa933.yaml
@@ -279656,6 +279657,7 @@
 ./poc/web/websimon_tables-51c1c4ee-c17f-4565-b800-f306569fc502.yaml
 ./poc/web/website-article-monetization-by-magenet-875f9580db51cff5faa966932daebf71.yaml
 ./poc/web/website-article-monetization-by-magenet.yaml
+./poc/web/website-backup-files.yaml
 ./poc/web/website-contact-form-with-file-upload-1ca528b401906d2e136fc4b9882fd3f1.yaml
 ./poc/web/website-contact-form-with-file-upload-204371f39b6898b9c8b56a2a18da117f.yaml
 ./poc/web/website-contact-form-with-file-upload-6b5f9852611ac0f530025b788c894b34.yaml
@@ -279789,7 +279791,7 @@
 ./poc/web/wordpress-host-webfonts-local.yaml
 ./poc/web/wordpress-webp-converter-for-media.yaml
 ./poc/web/wordpress-webp-express.yaml
-./poc/web/wordpress-website-detect_1.yaml
+./poc/web/wordpress-website-detect.yaml
 ./poc/web/workerman-websocket-detect.yaml
 ./poc/web/wp-copysafe-web-539bf18f27973db2101eaaba0068ba23.yaml
 ./poc/web/wp-copysafe-web-6a0a997a4a5c62251c8acef1f34f2f39.yaml
@@ -279882,7 +279884,7 @@
 ./poc/web/zimbra-web-login_2.yaml
 ./poc/web/zingiri-web-shop-1f9ea959eaa7dfc9f5b881f55bb49da3.yaml
 ./poc/web/zingiri-web-shop-f406540ed24a47e0daf12414ccf28530.yaml
-./poc/web/zingiri_web_shop-a946cca6-670b-4baf-a941-43d0a0261c0d_1.yaml
+./poc/web/zingiri_web_shop-a946cca6-670b-4baf-a941-43d0a0261c0d.yaml
 ./poc/web/zingiri_web_shop-dd5b0c3a-0dd0-440f-b3a5-6d80f70e0f7c.yaml
 ./poc/web/zoho-webhook-token-11835.yaml
 ./poc/web/zoho-webhook-token-11835_1.yaml
