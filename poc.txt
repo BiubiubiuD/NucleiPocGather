@@ -156949,9 +156949,6 @@
 ./poc/debug/go-pprof-debug.yaml
 ./poc/debug/imageresizer-debug-exposure.yaml
 ./poc/debug/istio-pilot-debug-anonymous.yaml
-./poc/debug/jboss-seam-debug-page-8238.yaml
-./poc/debug/jboss-seam-debug-page-8239.yaml
-./poc/debug/jboss-seam-debug-page.yaml
 ./poc/debug/lanhai-jifei-debug-rce.yaml
 ./poc/debug/lanhaizhuoyue-debug-rce.yaml
 ./poc/debug/laravel-debug-405.yaml
@@ -157009,9 +157006,6 @@
 ./poc/debug/soap-ajax-debugshell_2.yaml
 ./poc/debug/ssp_debugging-66f29499-1522-43cd-af78-9b734c66af8c.yaml
 ./poc/debug/ssrf-proxy-header-debug.yaml
-./poc/debug/struts-debug-mode-10559.yaml
-./poc/debug/struts-debug-mode-10561.yaml
-./poc/debug/struts-debug-mode.yaml
 ./poc/debug/symfony-debug-pro.yaml
 ./poc/debug/symfony-debug.yaml
 ./poc/debug/symfony-debug_1.yaml
@@ -158904,7 +158898,6 @@
 ./poc/detect/graphql-hasura-detect.yaml
 ./poc/detect/graphql-hasura-detect_1.yaml
 ./poc/detect/graphql-hypergraphql-detect.yaml
-./poc/detect/graphql-java-detect.yaml
 ./poc/detect/graphql-juniper-detect.yaml
 ./poc/detect/graphql-juniper-detect_1.yaml
 ./poc/detect/graphql-php-detect.yaml
@@ -159100,7 +159093,6 @@
 ./poc/detect/jenkins-detect.yaml
 ./poc/detect/jenkins-headers-detect.yaml
 ./poc/detect/jenkins-login-detection.yaml
-./poc/detect/jetty-detect.yaml
 ./poc/detect/jhipster-detect.yaml
 ./poc/detect/jira-detect-1.yaml
 ./poc/detect/jira-detect-1_2.yaml
@@ -160043,7 +160035,6 @@
 ./poc/detect/sglang-detect_1.yaml
 ./poc/detect/shibboleth-detect.yaml
 ./poc/detect/shibboleth-detect_1.yaml
-./poc/detect/shiro-detect-10197.yaml
 ./poc/detect/shopizer-detect-1.yaml
 ./poc/detect/shopizer-detect-2.yaml
 ./poc/detect/shopizer-detect.yaml
@@ -160394,7 +160385,6 @@
 ./poc/detect/tinyproxy-detect.yaml
 ./poc/detect/tlsa-record-detect.yaml
 ./poc/detect/tlsa-record-detect_1.yaml
-./poc/detect/tomcat-detect.yaml
 ./poc/detect/tool-detect.yaml
 ./poc/detect/tool-detect_2.yaml
 ./poc/detect/tools4ever-helloid-detect.yaml
@@ -160557,9 +160547,6 @@
 ./poc/detect/web-suite-detect.yaml
 ./poc/detect/web-tutor-detection.yaml
 ./poc/detect/webeditors-check-detect.yaml
-./poc/detect/weblogic-detect-11145.yaml
-./poc/detect/weblogic-detect-11146.yaml
-./poc/detect/weblogic-detect.yaml
 ./poc/detect/webmodule-ee-detection.yaml
 ./poc/detect/webswing-api-version-detect_1.yaml
 ./poc/detect/webtutor-detect.yaml
@@ -166880,6 +166867,7 @@
 ./poc/java/generic-j2ee-lfi.yaml
 ./poc/java/generic-j2ee-lfi_1.yaml
 ./poc/java/glassfish-cve-2017-1000028-lfi.yaml
+./poc/java/graphql-java-detect.yaml
 ./poc/java/hand-china-srm-tomcat-jsp-login-bypass.yaml
 ./poc/java/hangseng-jrescloud-uploadimage-fileupload_1.yaml
 ./poc/java/ibm-websphere-admin-panel.yaml
@@ -166958,7 +166946,10 @@
 ./poc/java/jboss-juddi-panel.yaml
 ./poc/java/jboss-juddi.yaml
 ./poc/java/jboss-remoting.yaml
+./poc/java/jboss-seam-debug-page-8238.yaml
+./poc/java/jboss-seam-debug-page-8239.yaml
 ./poc/java/jboss-seam-debug-page-8240.yaml
+./poc/java/jboss-seam-debug-page.yaml
 ./poc/java/jboss-sensitive-disclose.yaml
 ./poc/java/jboss-soa-platform.yaml
 ./poc/java/jboss-soa-platform_1.yaml
@@ -166980,6 +166971,7 @@
 ./poc/java/jboss_enterprise_application_platform.yaml
 ./poc/java/jeespringcloud-uploadfile-fileupload.yaml
 ./poc/java/jetty-cve-2021-28164.yaml
+./poc/java/jetty-detect.yaml
 ./poc/java/jetty-directory-listing.yaml
 ./poc/java/jetty-directory-listing_1.yaml
 ./poc/java/jetty-information-disclosure.yaml
@@ -167079,6 +167071,7 @@
 ./poc/java/shiro-deserialization-detection_2.yaml
 ./poc/java/shiro-detect-10195.yaml
 ./poc/java/shiro-detect-10196.yaml
+./poc/java/shiro-detect-10197.yaml
 ./poc/java/shiro-detect.yaml
 ./poc/java/shiro-key-detect.yaml
 ./poc/java/shiro-key.yaml
@@ -167379,7 +167372,10 @@
 ./poc/java/springcloud-cve-2019-3799.yml
 ./poc/java/springcloud-function-spel-rce.yaml
 ./poc/java/springer.yaml
+./poc/java/struts-debug-mode-10559.yaml
 ./poc/java/struts-debug-mode-10560.yaml
+./poc/java/struts-debug-mode-10561.yaml
+./poc/java/struts-debug-mode.yaml
 ./poc/java/struts-ognl-console.yaml
 ./poc/java/struts-problem-report-10562.yaml
 ./poc/java/struts-problem-report-10563.yaml
@@ -167419,6 +167415,7 @@
 ./poc/java/tomcat-detect-10793.yaml
 ./poc/java/tomcat-detect-10794.yaml
 ./poc/java/tomcat-detect-10795.yaml
+./poc/java/tomcat-detect.yaml
 ./poc/java/tomcat-detect_1.yaml
 ./poc/java/tomcat-detect_10.yaml
 ./poc/java/tomcat-detect_5.yaml
@@ -167566,6 +167563,9 @@
 ./poc/java/weblogic-detect-11142.yaml
 ./poc/java/weblogic-detect-11143.yaml
 ./poc/java/weblogic-detect-11144.yaml
+./poc/java/weblogic-detect-11145.yaml
+./poc/java/weblogic-detect-11146.yaml
+./poc/java/weblogic-detect.yaml
 ./poc/java/weblogic-iiop-detect-11147.yaml
 ./poc/java/weblogic-iiop-detect-11148.yaml
 ./poc/java/weblogic-iiop-detect.yaml
@@ -297263,7 +297263,7 @@
 ./poc/wordpress/wpzoom_elementor_addons-f972ab72-8e68-4ab3-aa7f-e2816de33554.yaml
 ./poc/wordpress/wpzoom_inspiro_pro-fa15ee50-2cbb-4833-b512-0971eaf12ff2_1.yaml
 ./poc/wordpress/wpzoom_portfolio-2e7d5503-0a6e-4611-bb7c-b2871be828be.yaml
-./poc/wordpress/wpzoom_portfolio-84cb907c-bd6b-4031-96a1-8a6de71923e0_1.yaml
+./poc/wordpress/wpzoom_portfolio-84cb907c-bd6b-4031-96a1-8a6de71923e0.yaml
 ./poc/wordpress/wpzoom_portfolio-f4213452-33f7-46d4-ab4a-544a9bef475a.yaml
 ./poc/wordpress/wpzoom_portfolio-fbc3643c-6116-42d3-b309-2e6aeedfbe4f.yaml
 ./poc/wordpress/wpzoom_shortcodes-2cc03aa9-ad3d-4abb-9c22-cb40875ece47.yaml
