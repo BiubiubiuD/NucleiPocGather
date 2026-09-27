@@ -14,10 +14,11 @@ info:
     cvss-score: 10.0
     cwe-id: CWE-89
   metadata:
+    max-request: 1
     verified: true
   tags: ems,sqli,cms,auth-bypass,edb
 
-requests:
+http:
   - raw:
       - |
         POST /process/aprocess.php HTTP/1.1
